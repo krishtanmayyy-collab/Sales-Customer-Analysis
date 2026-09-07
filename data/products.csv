@@ -1,0 +1,51 @@
+product_id,product_name,category,sub_category,unit_price,cost_price
+1,Dell Inspiron 15 Laptop,Electronics,Laptops,65000,52000
+2,HP Pavilion 14 Laptop,Electronics,Laptops,62000,49500
+3,Lenovo IdeaPad Slim 3,Electronics,Laptops,54000,43000
+4,ASUS VivoBook 15,Electronics,Laptops,58000,46500
+5,Acer Aspire 5,Electronics,Laptops,56000,44800
+6,Samsung Galaxy S24,Electronics,Smartphones,72000,61000
+7,OnePlus 12,Electronics,Smartphones,65000,54500
+8,iPhone 15,Electronics,Smartphones,70000,59000
+9,Google Pixel 8,Electronics,Smartphones,62000,52000
+10,Samsung Galaxy A55,Electronics,Smartphones,42000,35000
+11,iPad 10th Gen,Electronics,Tablets,42000,35000
+12,Samsung Galaxy Tab S9,Electronics,Tablets,68000,56000
+13,Lenovo Tab M11,Electronics,Tablets,22000,17500
+14,OnePlus Pad,Electronics,Tablets,37000,30000
+15,Dell 24-inch Monitor,Computing,Monitors,14500,11200
+16,LG 27-inch Monitor,Computing,Monitors,22000,17500
+17,Samsung 32-inch Monitor,Computing,Monitors,28000,22500
+18,Logitech Wireless Mouse,Accessories,Computer Accessories,1200,750
+19,HP Wireless Mouse,Accessories,Computer Accessories,900,550
+20,Logitech Mechanical Keyboard,Accessories,Keyboards,4500,3200
+21,HP Wireless Keyboard,Accessories,Keyboards,1800,1150
+22,Dell Wired Keyboard,Accessories,Keyboards,1100,700
+23,Sony WH-1000XM5 Headphones,Accessories,Headphones,30000,24000
+24,JBL Tune 770NC Headphones,Accessories,Headphones,7500,5700
+25,Boat Rockerz 550,Accessories,Headphones,2200,1500
+26,Apple AirPods Pro,Accessories,Earbuds,25000,20500
+27,Samsung Galaxy Buds2 Pro,Accessories,Earbuds,15000,11800
+28,Boat Airdopes 141,Accessories,Earbuds,1600,1000
+29,Anker Power Bank 20000mAh,Accessories,Power Banks,3200,2350
+30,Mi Power Bank 10000mAh,Accessories,Power Banks,1400,950
+31,Amazon Basics USB-C Cable,Accessories,Cables,700,420
+32,Anker USB-C Fast Charger,Accessories,Chargers,2500,1800
+33,Samsung 25W Fast Charger,Accessories,Chargers,1800,1250
+34,Logitech C920 Webcam,Computing,Webcams,6500,4900
+35,HP HD Webcam,Computing,Webcams,2800,1900
+36,Canon Pixma Printer,Office Supplies,Printers,8500,6900
+37,HP LaserJet Printer,Office Supplies,Printers,16500,13200
+38,Epson EcoTank Printer,Office Supplies,Printers,19000,15000
+39,SanDisk 128GB USB Drive,Storage,USB Drives,900,600
+40,SanDisk 256GB SSD,Storage,SSD,3200,2450
+41,Samsung 1TB SSD,Storage,SSD,7200,5700
+42,WD 1TB External HDD,Storage,Hard Drives,5500,4300
+43,Seagate 2TB External HDD,Storage,Hard Drives,6800,5300
+44,TP-Link WiFi Router,Networking,Routers,2800,2050
+45,TP-Link 4G Router,Networking,Routers,5200,4000
+46,D-Link WiFi Router,Networking,Routers,2400,1750
+47,Microsoft 365 Personal,Software,Productivity Software,4899,3600
+48,Antivirus Premium 1 Year,Software,Security Software,1999,1200
+49,Office Desk Lamp,Office Supplies,Desk Accessories,1800,1100
+50,Ergonomic Office Chair,Office Supplies,Furniture,12500,9500

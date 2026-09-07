@@ -1,0 +1,21 @@
+employee_id,employee_name,department,job_role,city,joining_date
+1,Amit Sharma,Sales,Sales Executive,Delhi,2022-04-15
+2,Karan Singh,Sales,Sales Executive,Noida,2023-01-10
+3,Mohit Verma,Sales,Senior Sales Executive,Gurgaon,2021-08-20
+4,Simran Kaur,Sales,Sales Executive,Delhi,2023-06-12
+5,Nikhil Gupta,Sales,Sales Executive,Mumbai,2022-11-05
+6,Ravi Kumar,Sales,Sales Manager,Bangalore,2020-03-18
+7,Anjali Mehta,Sales,Sales Executive,Pune,2023-09-01
+8,Varun Kapoor,Sales,Senior Sales Executive,Hyderabad,2021-12-10
+9,Pankaj Yadav,Sales,Sales Executive,Jaipur,2024-01-08
+10,Riya Agarwal,Sales,Sales Executive,Kolkata,2024-02-15
+11,Sahil Malhotra,Operations,Operations Executive,Delhi,2022-05-22
+12,Kavita Sharma,Operations,Operations Manager,Noida,2020-09-14
+13,Deepak Singh,Finance,Finance Executive,Gurgaon,2021-04-19
+14,Meera Gupta,Finance,Senior Finance Executive,Mumbai,2022-07-11
+15,Arjun Mehta,IT,IT Support Executive,Bangalore,2023-03-06
+16,Sneha Verma,IT,System Administrator,Pune,2021-10-25
+17,Rohan Kapoor,Marketing,Marketing Executive,Hyderabad,2023-05-17
+18,Priti Yadav,Marketing,Digital Marketing Executive,Delhi,2024-03-04
+19,Akash Kumar,HR,HR Executive,Noida,2022-02-28
+20,Shreya Singh,HR,HR Manager,Gurgaon,2020-06-08

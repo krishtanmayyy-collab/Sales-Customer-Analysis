@@ -1,0 +1,101 @@
+customer_id,customer_name,email,phone,city,state,customer_segment,registration_date
+1,Rahul Sharma,rahul.sharma1@gmail.com,9810000001,Delhi,Delhi,Retail,2024-01-04
+2,Aman Verma,aman.verma2@gmail.com,9810000002,Noida,Uttar Pradesh,Corporate,2024-01-07
+3,Priya Singh,priya.singh3@gmail.com,9810000003,Gurgaon,Haryana,Small Business,2024-01-10
+4,Neha Gupta,neha.gupta4@gmail.com,9810000004,Mumbai,Maharashtra,Retail,2024-01-13
+5,Rohit Kumar,rohit.kumar5@gmail.com,9810000005,Bangalore,Karnataka,Corporate,2024-01-16
+6,Ankit Mehta,ankit.mehta6@gmail.com,9810000006,Pune,Maharashtra,Small Business,2024-01-19
+7,Sneha Kapoor,sneha.kapoor7@gmail.com,9810000007,Hyderabad,Telangana,Retail,2024-01-22
+8,Vikas Yadav,vikas.yadav8@gmail.com,9810000008,Chennai,Tamil Nadu,Corporate,2024-01-25
+9,Pooja Agarwal,pooja.agarwal9@gmail.com,9810000009,Jaipur,Rajasthan,Small Business,2024-01-28
+10,Arjun Malhotra,arjun.malhotra10@gmail.com,9810000010,Kolkata,West Bengal,Retail,2024-01-31
+11,Karan Sharma,karan.sharma11@gmail.com,9810000011,Delhi,Delhi,Corporate,2024-02-03
+12,Simran Verma,simran.verma12@gmail.com,9810000012,Noida,Uttar Pradesh,Small Business,2024-02-06
+13,Mohit Singh,mohit.singh13@gmail.com,9810000013,Gurgaon,Haryana,Retail,2024-02-09
+14,Nisha Gupta,nisha.gupta14@gmail.com,9810000014,Mumbai,Maharashtra,Corporate,2024-02-12
+15,Aditya Kumar,aditya.kumar15@gmail.com,9810000015,Bangalore,Karnataka,Small Business,2024-02-15
+16,Kavya Mehta,kavya.mehta16@gmail.com,9810000016,Pune,Maharashtra,Retail,2024-02-18
+17,Varun Kapoor,varun.kapoor17@gmail.com,9810000017,Hyderabad,Telangana,Corporate,2024-02-21
+18,Riya Yadav,riya.yadav18@gmail.com,9810000018,Chennai,Tamil Nadu,Small Business,2024-02-24
+19,Akash Agarwal,akash.agarwal19@gmail.com,9810000019,Jaipur,Rajasthan,Retail,2024-02-27
+20,Shreya Malhotra,shreya.malhotra20@gmail.com,9810000020,Kolkata,West Bengal,Corporate,2024-03-01
+21,Rahul Sharma,rahul.sharma21@gmail.com,9810000021,Delhi,Delhi,Small Business,2024-03-04
+22,Aman Verma,aman.verma22@gmail.com,9810000022,Noida,Uttar Pradesh,Retail,2024-03-07
+23,Priya Singh,priya.singh23@gmail.com,9810000023,Gurgaon,Haryana,Corporate,2024-03-10
+24,Neha Gupta,neha.gupta24@gmail.com,9810000024,Mumbai,Maharashtra,Small Business,2024-03-13
+25,Rohit Kumar,rohit.kumar25@gmail.com,9810000025,Bangalore,Karnataka,Retail,2024-03-16
+26,Ankit Mehta,ankit.mehta26@gmail.com,9810000026,Pune,Maharashtra,Corporate,2024-03-19
+27,Sneha Kapoor,sneha.kapoor27@gmail.com,9810000027,Hyderabad,Telangana,Small Business,2024-03-22
+28,Vikas Yadav,vikas.yadav28@gmail.com,9810000028,Chennai,Tamil Nadu,Retail,2024-03-25
+29,Pooja Agarwal,pooja.agarwal29@gmail.com,9810000029,Jaipur,Rajasthan,Corporate,2024-03-28
+30,Arjun Malhotra,arjun.malhotra30@gmail.com,9810000030,Kolkata,West Bengal,Small Business,2024-03-31
+31,Karan Sharma,karan.sharma31@gmail.com,9810000031,Delhi,Delhi,Retail,2024-04-03
+32,Simran Verma,simran.verma32@gmail.com,9810000032,Noida,Uttar Pradesh,Corporate,2024-04-06
+33,Mohit Singh,mohit.singh33@gmail.com,9810000033,Gurgaon,Haryana,Small Business,2024-04-09
+34,Nisha Gupta,nisha.gupta34@gmail.com,9810000034,Mumbai,Maharashtra,Retail,2024-04-12
+35,Aditya Kumar,aditya.kumar35@gmail.com,9810000035,Bangalore,Karnataka,Corporate,2024-04-15
+36,Kavya Mehta,kavya.mehta36@gmail.com,9810000036,Pune,Maharashtra,Small Business,2024-04-18
+37,Varun Kapoor,varun.kapoor37@gmail.com,9810000037,Hyderabad,Telangana,Retail,2024-04-21
+38,Riya Yadav,riya.yadav38@gmail.com,9810000038,Chennai,Tamil Nadu,Corporate,2024-04-24
+39,Akash Agarwal,akash.agarwal39@gmail.com,9810000039,Jaipur,Rajasthan,Small Business,2024-04-27
+40,Shreya Malhotra,shreya.malhotra40@gmail.com,9810000040,Kolkata,West Bengal,Retail,2024-04-30
+41,Rahul Sharma,rahul.sharma41@gmail.com,9810000041,Delhi,Delhi,Corporate,2024-05-03
+42,Aman Verma,aman.verma42@gmail.com,9810000042,Noida,Uttar Pradesh,Small Business,2024-05-06
+43,Priya Singh,priya.singh43@gmail.com,9810000043,Gurgaon,Haryana,Retail,2024-05-09
+44,Neha Gupta,neha.gupta44@gmail.com,9810000044,Mumbai,Maharashtra,Corporate,2024-05-12
+45,Rohit Kumar,rohit.kumar45@gmail.com,9810000045,Bangalore,Karnataka,Small Business,2024-05-15
+46,Ankit Mehta,ankit.mehta46@gmail.com,9810000046,Pune,Maharashtra,Retail,2024-05-18
+47,Sneha Kapoor,sneha.kapoor47@gmail.com,9810000047,Hyderabad,Telangana,Corporate,2024-05-21
+48,Vikas Yadav,vikas.yadav48@gmail.com,9810000048,Chennai,Tamil Nadu,Small Business,2024-05-24
+49,Pooja Agarwal,pooja.agarwal49@gmail.com,9810000049,Jaipur,Rajasthan,Retail,2024-05-27
+50,Arjun Malhotra,arjun.malhotra50@gmail.com,9810000050,Kolkata,West Bengal,Corporate,2024-05-30
+51,Karan Sharma,karan.sharma51@gmail.com,9810000051,Delhi,Delhi,Small Business,2024-06-02
+52,Simran Verma,simran.verma52@gmail.com,9810000052,Noida,Uttar Pradesh,Retail,2024-06-05
+53,Mohit Singh,mohit.singh53@gmail.com,9810000053,Gurgaon,Haryana,Corporate,2024-06-08
+54,Nisha Gupta,nisha.gupta54@gmail.com,9810000054,Mumbai,Maharashtra,Small Business,2024-06-11
+55,Aditya Kumar,aditya.kumar55@gmail.com,9810000055,Bangalore,Karnataka,Retail,2024-06-14
+56,Kavya Mehta,kavya.mehta56@gmail.com,9810000056,Pune,Maharashtra,Corporate,2024-06-17
+57,Varun Kapoor,varun.kapoor57@gmail.com,9810000057,Hyderabad,Telangana,Small Business,2024-06-20
+58,Riya Yadav,riya.yadav58@gmail.com,9810000058,Chennai,Tamil Nadu,Retail,2024-06-23
+59,Akash Agarwal,akash.agarwal59@gmail.com,9810000059,Jaipur,Rajasthan,Corporate,2024-06-26
+60,Shreya Malhotra,shreya.malhotra60@gmail.com,9810000060,Kolkata,West Bengal,Small Business,2024-06-29
+61,Rahul Sharma,rahul.sharma61@gmail.com,9810000061,Delhi,Delhi,Retail,2024-07-02
+62,Aman Verma,aman.verma62@gmail.com,9810000062,Noida,Uttar Pradesh,Corporate,2024-07-05
+63,Priya Singh,priya.singh63@gmail.com,9810000063,Gurgaon,Haryana,Small Business,2024-07-08
+64,Neha Gupta,neha.gupta64@gmail.com,9810000064,Mumbai,Maharashtra,Retail,2024-07-11
+65,Rohit Kumar,rohit.kumar65@gmail.com,9810000065,Bangalore,Karnataka,Corporate,2024-07-14
+66,Ankit Mehta,ankit.mehta66@gmail.com,9810000066,Pune,Maharashtra,Small Business,2024-07-17
+67,Sneha Kapoor,sneha.kapoor67@gmail.com,9810000067,Hyderabad,Telangana,Retail,2024-07-20
+68,Vikas Yadav,vikas.yadav68@gmail.com,9810000068,Chennai,Tamil Nadu,Corporate,2024-07-23
+69,Pooja Agarwal,pooja.agarwal69@gmail.com,9810000069,Jaipur,Rajasthan,Small Business,2024-07-26
+70,Arjun Malhotra,arjun.malhotra70@gmail.com,9810000070,Kolkata,West Bengal,Retail,2024-07-29
+71,Karan Sharma,karan.sharma71@gmail.com,9810000071,Delhi,Delhi,Corporate,2024-08-01
+72,Simran Verma,simran.verma72@gmail.com,9810000072,Noida,Uttar Pradesh,Small Business,2024-08-04
+73,Mohit Singh,mohit.singh73@gmail.com,9810000073,Gurgaon,Haryana,Retail,2024-08-07
+74,Nisha Gupta,nisha.gupta74@gmail.com,9810000074,Mumbai,Maharashtra,Corporate,2024-08-10
+75,Aditya Kumar,aditya.kumar75@gmail.com,9810000075,Bangalore,Karnataka,Small Business,2024-08-13
+76,Kavya Mehta,kavya.mehta76@gmail.com,9810000076,Pune,Maharashtra,Retail,2024-08-16
+77,Varun Kapoor,varun.kapoor77@gmail.com,9810000077,Hyderabad,Telangana,Corporate,2024-08-19
+78,Riya Yadav,riya.yadav78@gmail.com,9810000078,Chennai,Tamil Nadu,Small Business,2024-08-22
+79,Akash Agarwal,akash.agarwal79@gmail.com,9810000079,Jaipur,Rajasthan,Retail,2024-08-25
+80,Shreya Malhotra,shreya.malhotra80@gmail.com,9810000080,Kolkata,West Bengal,Corporate,2024-08-28
+81,Rahul Sharma,rahul.sharma81@gmail.com,9810000081,Delhi,Delhi,Small Business,2024-08-31
+82,Aman Verma,aman.verma82@gmail.com,9810000082,Noida,Uttar Pradesh,Retail,2024-09-03
+83,Priya Singh,priya.singh83@gmail.com,9810000083,Gurgaon,Haryana,Corporate,2024-09-06
+84,Neha Gupta,neha.gupta84@gmail.com,9810000084,Mumbai,Maharashtra,Small Business,2024-09-09
+85,Rohit Kumar,rohit.kumar85@gmail.com,9810000085,Bangalore,Karnataka,Retail,2024-09-12
+86,Ankit Mehta,ankit.mehta86@gmail.com,9810000086,Pune,Maharashtra,Corporate,2024-09-15
+87,Sneha Kapoor,sneha.kapoor87@gmail.com,9810000087,Hyderabad,Telangana,Small Business,2024-09-18
+88,Vikas Yadav,vikas.yadav88@gmail.com,9810000088,Chennai,Tamil Nadu,Retail,2024-09-21
+89,Pooja Agarwal,pooja.agarwal89@gmail.com,9810000089,Jaipur,Rajasthan,Corporate,2024-09-24
+90,Arjun Malhotra,arjun.malhotra90@gmail.com,9810000090,Kolkata,West Bengal,Small Business,2024-09-27
+91,Karan Sharma,karan.sharma91@gmail.com,9810000091,Delhi,Delhi,Retail,2024-09-30
+92,Simran Verma,simran.verma92@gmail.com,9810000092,Noida,Uttar Pradesh,Corporate,2024-10-03
+93,Mohit Singh,mohit.singh93@gmail.com,9810000093,Gurgaon,Haryana,Small Business,2024-10-06
+94,Nisha Gupta,nisha.gupta94@gmail.com,9810000094,Mumbai,Maharashtra,Retail,2024-10-09
+95,Aditya Kumar,aditya.kumar95@gmail.com,9810000095,Bangalore,Karnataka,Corporate,2024-10-12
+96,Kavya Mehta,kavya.mehta96@gmail.com,9810000096,Pune,Maharashtra,Small Business,2024-10-15
+97,Varun Kapoor,varun.kapoor97@gmail.com,9810000097,Hyderabad,Telangana,Retail,2024-10-18
+98,Riya Yadav,riya.yadav98@gmail.com,9810000098,Chennai,Tamil Nadu,Corporate,2024-10-21
+99,Akash Agarwal,akash.agarwal99@gmail.com,9810000099,Jaipur,Rajasthan,Small Business,2024-10-24
+100,Shreya Malhotra,shreya.malhotra100@gmail.com,9810000100,Kolkata,West Bengal,Retail,2024-10-27
